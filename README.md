@@ -4,7 +4,7 @@ Video Demo: https://youtu.be/9bUGaVNOr-o
 
 Google Maps-like API created in C++ using GTK libraries for UI
 
-* Software has copyrighted material, and therefore, cannot be posted - please contact for details on source code
+\*Software has copyrighted material, and therefore, cannot be posted - please contact for details on source code
 
 Features: 
 - Graph visualization to draw streets 
